@@ -1,3 +1,3 @@
-# Comparativos-de-Algoritmos-de-Ordena-o
+# Comparativos-de-Algoritmos-de-Ordenacao
 
 Use o gitclone ou baixe o arquivo em zip, para ser executado é necessário ter o java instalado na IDE.
